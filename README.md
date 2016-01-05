@@ -1,0 +1,1 @@
+This project demonstrates how to automate the REST API document generation for the Spring REST applications using the Springfox framework. To read more about Springfox go here: http://springfox.github.io/springfox/docs/current/#introduction
